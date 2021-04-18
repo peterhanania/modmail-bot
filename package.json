@@ -1,0 +1,29 @@
+{
+  "name": "modmail-discord",
+  "version": "1.0.0",
+  "description": "A discord.js modmail to handle support in a guild.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhanania/modmail-bot.git"
+  },
+  "keywords": [
+    "modmail-discord",
+    "discord",
+    "discord-modmail",
+    "discord-bot"
+  ],
+  "author": "Peter Hanania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterhanania/modmail-bot/issues"
+  },
+  "homepage": "https://github.com/peterhanania/modmail-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.4"
+  }
+}
