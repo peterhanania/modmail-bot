@@ -24,9 +24,9 @@ If you liked this repository, feel free to leave a star ⭐!
 
 ## Features
 
--Organised tickets
--Logging
--Transcripts
+-Organised tickets<br>
+-Logging<br>
+-Transcripts<br>
 
 ## Installation
 
