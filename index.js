@@ -1,4 +1,8 @@
+/*
 
+For further help please check the repo at https://github.com/peterhanania/modmail-bot/
+
+*/
 
 const {
   token,
